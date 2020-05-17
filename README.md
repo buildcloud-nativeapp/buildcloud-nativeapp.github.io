@@ -83,7 +83,6 @@ They come up with different architecture design. (Assume Xyz is using Azure as t
       <th style="width:50%">Company Xyz</th>
     </tr>
     <tr>
-    <tr>
       <td>
          <img alt="Overall architecture" src="images\Easy-Planner-Microservices-Architecture.png">
       </td>
