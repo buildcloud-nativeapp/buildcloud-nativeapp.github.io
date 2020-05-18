@@ -1,3 +1,5 @@
+# Build Could-Native App
+
 ## What is Cloud-native
 
 "Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative          APIs exemplify this approach."
@@ -6,7 +8,7 @@
 
 ## Two scenarios, two approaches
 
-Lets assume there are 2 companies, Abc and Xyz, both have ambitious business plans and both are aiming to get the best out from new technologies. Both are planning highly scalable, resilient new products, with rapid development and fast delivery, frequent release to customers.
+Lets assume there are 2 companies, **Abc** and **Xyz**, both have ambitious business plans and both are aiming to get the best out from new technologies. Both are planning highly scalable, resilient new products, with rapid development and fast delivery, frequent release to customers.
 
 However, they are different in many ways.
 
@@ -42,8 +44,8 @@ Both have made key decisions, and chosen core technologies to use.
 <table style="width:100%">
   <tbody>
     <tr>
-      <th style="width:50%">Company Abc</th>
-      <th style="width:50%">Company Xyz</th>
+      <th style="width:50%">Abc</th>
+      <th style="width:50%">Xyz</th>
     </tr>
     <tr>
       <td>
@@ -73,14 +75,17 @@ Both have made key decisions, and chosen core technologies to use.
 
 *Note: not all possible cloud providers are listed above.*
 
-Both Abc and Xyz are planning to build a small, simple app as a Proof-of-Concept to start with. The app is called, easyPlanner, which will provide a simple weekly planning tool for everyone who *"living your values, planning for goals, and designing your week"*.
+Both Abc and Xyz are planning to build a small, simple app as a Proof-of-Concept to start with. The app is called, easyPlanner, which will provide a simple weekly planning tool for everyone who *"living your values, planning for goals, and designing your week"*. 
 
-They come up with different architecture design. (Assume Xyz is using Azure as their pubic platform. Similar design can be achieved on other cloud platforms.) 
+The goal is to demontrate all the essential architecture elements, while the features of the app can be minimised at this stage.
+
+They come up with different architecture designs. 
+(We assume Xyz is using Azure as their pubic platform. Similar design can be achieved on other cloud platforms.) 
 <table style="width:100%">
   <tbody>
     <tr>
-      <th style="width:50%">Company Abc</th>
-      <th style="width:50%">Company Xyz</th>
+      <th style="width:50%">Abc</th>
+      <th style="width:50%">Xyz</th>
     </tr>
     <tr>
       <td>
@@ -88,6 +93,24 @@ They come up with different architecture design. (Assume Xyz is using Azure as t
       </td>
         <td>
          <img alt="Overall architecture" src="images\easy-planner-serverless-on-azure-architecture.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Please visit their project sites for more information. 
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <th style="width:50%">Abc</th>
+      <th style="width:50%">Xyz</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlanner/">Easy Planner on containers</a>
+      </td>
+        <td>
+        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlannerServerlessOnAzure/">Easy Planner Serverless on Azure</a>
       </td>
     </tr>
   </tbody>
