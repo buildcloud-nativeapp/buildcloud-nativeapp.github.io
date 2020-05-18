@@ -118,3 +118,4 @@ Please visit their project sites for more information.
   </tbody>
 </table>
 
+<a href="#top">Back to top</a>
