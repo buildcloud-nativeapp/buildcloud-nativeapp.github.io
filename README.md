@@ -40,6 +40,7 @@ However, they are different in many ways.
   </tbody>
 </table>
 
+
 Both have made key decisions, and chosen core technologies to use.
 <table style="width:100%">
   <tbody>
@@ -98,6 +99,7 @@ They come up with different architecture designs.
   </tbody>
 </table>
 
+
 Please visit their project sites for more information. 
 <table style="width:100%">
   <tbody>
@@ -115,3 +117,4 @@ Please visit their project sites for more information.
     </tr>
   </tbody>
 </table>
+
