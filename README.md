@@ -39,7 +39,7 @@ However, they are different in many ways.
     </tr>
   </tbody>
 </table>
-
+<br>
 
 Both have made key decisions, and chosen core technologies to use.
 <table style="width:100%">
@@ -80,27 +80,15 @@ Both Abc and Xyz are planning to build a small, simple app as a Proof-of-Concept
 
 The goal is to demontrate all the essential architecture elements, while the features of the app can be minimised at this stage.
 
-They come up with different architecture designs. 
-(We assume Xyz is using Azure as their pubic platform. Similar design can be achieved on other cloud platforms.) 
-<table style="width:100%">
-  <tbody>
-    <tr>
-      <th style="width:50%">Abc</th>
-      <th style="width:50%">Xyz</th>
-    </tr>
-    <tr>
-      <td>
-         <img alt="Overall architecture" src="images\Easy-Planner-Microservices-Architecture.png">
-      </td>
-        <td>
-         <img alt="Overall architecture" src="images\easy-planner-serverless-on-azure-architecture.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+They come up with different architecture proposals. Abc has a design as below.
 
+![Easy Planner Architecture](/images/easy-planner-architecture.png)
 
-Please visit their project sites for more information. 
+Xyz has one illustrated as below. We assume Xyz is using Azure as their pubic platform. However, similar design can be achieved on other cloud platforms.
+
+![Easy Planner Serverless on Azure Architecture](/images/easy-planner-serverless-on-azure-architecture.png)
+
+Please visit the project sites for more information. 
 <table style="width:100%">
   <tbody>
     <tr>
@@ -117,5 +105,5 @@ Please visit their project sites for more information.
     </tr>
   </tbody>
 </table>
-
+<br>
 <a href="#top">Back to top</a>
