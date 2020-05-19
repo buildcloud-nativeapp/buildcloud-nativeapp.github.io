@@ -1,5 +1,3 @@
-# Build Could-Native App
-
 ## What is Cloud-native
 
 "Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative          APIs exemplify this approach."
@@ -8,7 +6,7 @@
 
 ## Two scenarios, two approaches
 
-Lets assume there are 2 companies, **Abc** and **Xyz**, both have ambitious business plans and both are aiming to get the best out from new technologies. Both are planning highly scalable, resilient new products, with rapid development and fast delivery, frequent release to customers.
+Let's assume there are two companies, **Abc** and **Xyz**. Both have ambitious business plans and both are aiming to get the best out from new technologies such as cloud computing, microservices, DevOps, etc. Both are planning new highly scalable, resilient products, ideally with rapid development and fast delivery, frequent release to customers.
 
 However, they are different in many ways.
 
@@ -23,15 +21,15 @@ However, they are different in many ways.
         <ul>
           <li>Empower their enterprise customers to choose where to host and run the product: on-prem or in the cloud (if so, whatever cloud platform customers prefer to). </li>
           <li>Continue their successful strategy to leverage open source technologies.</li>
-          <li>Take full control from infrastructure, operating, and application. There are great internal resources and experties availble.</li>
+          <li>Take full control from infrastructure, operating, and application. There are great internal resources and expertise available.</li>
           <li>Lift and shift some existing services at the initial phases to reduce impacts to business.</li>
         </ul>
       </td>
         <td>
         <ul>
-          <li>As a startup, develop a brand-new B2C cloud-based service. Fast business growth is as expected.</li>
+          <li>As a start-up, develop a brand-new B2C cloud-based service. Fast business growth is as expected.</li>
           <li>Competition is hot, faster to market is on top of the priorities. </li>
-          <li>Stay focus on product development. Ideally everything is operating in the cloud without worrying about infrasctructure and scaling.</li>
+          <li>Stay focus on product development. Ideally everything is operating in the cloud without worrying about infrastructure and scaling.</li>
           <li>Build and strengthen the partnership with the current cloud provider to achieve long-term Win-Win. </li>
           <li>The leadership heard about "serverless", "auto-scale", "pay for consumption", and they are keen to embrace it.</li>
         </ul>
@@ -41,7 +39,7 @@ However, they are different in many ways.
 </table>
 <br>
 
-Both have made key decisions, and chosen core technologies to use.
+Both have made key decisions and chosen core technologies to use.
 <table style="width:100%">
   <tbody>
     <tr>
@@ -76,19 +74,19 @@ Both have made key decisions, and chosen core technologies to use.
 
 *Note: not all possible cloud providers are listed above.*
 
-Both Abc and Xyz are planning to build a small, simple app as a Proof-of-Concept to start with. The app is called, easyPlanner, which will provide a simple weekly planning tool for everyone who *"living your values, planning for goals, and designing your week"*. 
+Both Abc and Xyz are planning to build a small, simple app as a Proof-of-Concept to start with. The app is called, **easyPlanner**, which will provide a simple weekly planning tool for everyone who *"living your values, planning for goals, and designing your week"*. 
 
-The goal is to demontrate all the essential architecture elements, while the features of the app can be minimised at this stage.
+The current goal is to demontrate all essential architecture elements and how they can be used to achieve business goals. The features of the app can be minimised at this stage.
 
 They come up with different architecture proposals. Abc has a design as below.
 
 ![Easy Planner Architecture](/images/easy-planner-architecture.png)
 
-Xyz has one illustrated as below. We assume Xyz is using Azure as their pubic platform. However, similar design can be achieved on other cloud platforms.
+Xyz has a differnt one. As an example we assume Xyz is using Azure as their cloud platform. However, similar design can be achieved on other cloud platforms.
 
 ![Easy Planner Serverless on Azure Architecture](/images/easy-planner-serverless-on-azure-architecture.png)
 
-Please visit the project sites for more information. 
+Both have started PoC projects. They are publishing their documents on project sites. Please visit them for more information. 
 <table style="width:100%">
   <tbody>
     <tr>
@@ -97,7 +95,7 @@ Please visit the project sites for more information.
     </tr>
     <tr>
       <td>
-        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlanner/">Easy Planner on containers</a>
+        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlanner/">Easy Planner (on containers)</a>
       </td>
         <td>
         <a href="http://www.buildcloud-nativeapp.co.uk/easyPlannerServerlessOnAzure/">Easy Planner Serverless on Azure</a>
