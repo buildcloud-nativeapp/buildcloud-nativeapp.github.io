@@ -95,10 +95,10 @@ Both have started PoC projects. They are publishing their documents on project s
     </tr>
     <tr>
       <td>
-        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlanner/">Easy Planner (on containers)</a>
+        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlanner/">easyPlanner (on containers)</a>
       </td>
         <td>
-        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlannerServerlessOnAzure/">Easy Planner Serverless on Azure</a>
+        <a href="http://www.buildcloud-nativeapp.co.uk/easyPlannerServerlessOnAzure/">easyPlanner Serverless on Azure</a>
       </td>
     </tr>
   </tbody>
