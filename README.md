@@ -106,7 +106,7 @@ Both have started PoC projects. They are publishing their documents on project s
 </table>
 <br>
 <br>
-*Note: nowadays, there are more and more overlap of these 2 approaches. E.g., many cloud platforms offer "serverless" Kubernetes and container instance services. Also, serverless apps can be containerised and so they can be easily deployed to on-premises and multi-cloud too. Refer to the following video as an example.*
+*Note: nowadays, there are more and more overlap of these 2 approaches. E.g., many cloud platforms offer "serverless" Kubernetes and container instance services, like Amazon EKS Fargate, Azure AKS Virture Nodes. Also, function apps can be containerised and so they can be easily deployed to on-premises and multi-cloud too. Refer to the following video as an example.*
 <br>
 <a href="https://youtu.be/nJlOuwh7ZI8" target="_blank">
 <img alt="Build a Full-Stack Serverless App on Azure, and Go Beyond (Part 5)" 
